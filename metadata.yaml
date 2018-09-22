@@ -1,5 +1,8 @@
 _repo: The-Memoirs-of-Francois-Rene-Vicomte-de-Chateaubriand-sometime-Ambassador-to-England-volume-5__55070
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55070-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Chateaubriand, François René
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '736'
     url: http://www.gutenberg.org/2009/agents/736
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55070#The-Memoirs-of-Francois-Rene-Vicomte-de-Chateaubriand-sometime-Ambassador-to-England-volume-5_
 gutenberg_issued: '2017-07-08'
 gutenberg_type: Text
 identifiers:
